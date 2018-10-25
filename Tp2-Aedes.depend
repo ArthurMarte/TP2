@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1540427444 source:c:\users\arthu\desktop\tp2-aedes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Tp2-Aedes.h"
+	<time.h>
+
+1540427444 source:c:\users\arthu\desktop\tp2-aedes\tp2-aedes.c
+	"Tp2-Aedes.h"
+	<time.h>
+
+1540427444 c:\users\arthu\desktop\tp2-aedes\tp2-aedes.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
